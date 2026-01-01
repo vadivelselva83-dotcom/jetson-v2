@@ -1,4 +1,6 @@
 # jetson-v2
+SD Card Image setup
+
 JETSON ORIN NANO 8GB – FIRST BOOT & SETUP STEPS (COPYABLE)
 
 UNBOX & PREPARE
